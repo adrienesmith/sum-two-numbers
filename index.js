@@ -1,5 +1,5 @@
 function twoNumberSum(array, targetSum) {
-  const numbers = new Map();
+	const numbers = new Map();
 	const solution = new Map();
 	
 	for (let number of array) {
